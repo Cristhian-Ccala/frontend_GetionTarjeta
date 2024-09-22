@@ -1,0 +1,14 @@
+.circle {
+    font-size: 24px; /* Tamaño del círculo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Asegura que ocupe toda la altura de la celda */
+  }
+.green-circle {
+    color: green;
+  }
+  
+.red-circle {
+    color: red;
+  }
